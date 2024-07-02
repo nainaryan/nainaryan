@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aryan nain
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structure and Algorithms
-- 💞️ I’m looking to collaborate on web development / machine learning / dsa based projects 
 - 📫 How to reach me 10aryannain@gmail.com
 - 
 
