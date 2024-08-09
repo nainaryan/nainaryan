@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryan nain
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in MERN Stack and Competitive Programming
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 📫 How to reach me 10aryannain@gmail.com
 - 
