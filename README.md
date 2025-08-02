@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryan nain
-- 👀 I’m interested in MERN Stack and Competitive Programming
-- 🌱 I’m currently learning Data Structure and Algorithms
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Time Series Analysis
 - 📫 How to reach me 10aryannain@gmail.com
 - 
 
